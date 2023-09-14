@@ -5,5 +5,8 @@ body{
 #title{
     color: red;
     background-color: black;
+}
+
+#title,.first{
     text-align: center;
 }
