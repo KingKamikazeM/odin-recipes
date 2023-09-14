@@ -10,3 +10,8 @@ body{
 #title,.first{
     text-align: center;
 }
+
+img{
+    height: 563px;
+    width: 750px;
+}
